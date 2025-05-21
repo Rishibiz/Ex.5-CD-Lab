@@ -1,6 +1,6 @@
 # Ex-5
 # RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-## Date: 23-04-2025
+## Date: 30-04-2025
 ## Reg No : 212223043005
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
